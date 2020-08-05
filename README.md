@@ -1,1 +1,11 @@
-# sort_functions
+# Python sort functions
+
+### Description
+`sort_funcs.py` contains sort algorithms implemented on Pyhton:
+* bubble sort
+* selection sort
+* insertion sort
+* merge sort
+* quick sort
+
+`test.py` is used for execution fime estimation. As a banchmark function is used built-in *sorted* function.
