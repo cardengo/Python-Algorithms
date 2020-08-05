@@ -58,7 +58,7 @@ def test_sort_funcs(sort_func_list, test_lst=None, bmark=False) -> None:
 
 
 sort_func_list = [
-#    bubble_sort, selection_sort, insertion_sort,
+    bubble_sort, selection_sort, insertion_sort,
     bubble_sort, merge_sort, quick_sort
 ]
 
