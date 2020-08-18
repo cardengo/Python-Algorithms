@@ -8,4 +8,7 @@
 * merge sort
 * quick sort
 
-`test.py` is used for execution fime estimation. As a banchmark function is used built-in *sorted* function.
+`test_sort.py` is used for execution fime estimation. As a banchmark function is used built-in *sorted* function.
+
+### Fibonacci
+`fibonacci.py`'s class could find n's element of Fibonacci sequence. The algorithm could quick find 2000's element and even greater.
