@@ -1,6 +1,6 @@
-# Python sort functions
+# Python Algorithms
 
-### Description
+### Python sort functions
 `sort_funcs.py` contains sort algorithms implemented on Pyhton:
 * bubble sort
 * selection sort
