@@ -8,4 +8,4 @@
 * merge sort
 * quick sort
 
-`test_sort.py` is used for execution fime estimation. As a banchmark function is used built-in *sorted* function.
+`test_sort.py` is used for execution time estimation. As a banchmark function is used built-in *sorted* function.
